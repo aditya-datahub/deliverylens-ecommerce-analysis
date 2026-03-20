@@ -35,7 +35,7 @@ deliverylens-ecommerce-analysis/
 ├── data/                  # Raw and cleaned CSV files
 ├── notebooks/             # Jupyter notebooks (EDA, cleaning)
 ├── sql/                   # MySQL queries
-├── dashboard/             # Power BI file + screenshot
+├── images/                # Power BI screenshot
 └── problem_statement.md   # Detailed problem statement
 ```
 
