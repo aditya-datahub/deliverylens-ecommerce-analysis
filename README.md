@@ -15,7 +15,7 @@ E-commerce companies often lose customers not because of bad products, but becau
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
